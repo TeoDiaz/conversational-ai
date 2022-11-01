@@ -9,6 +9,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "brain.js": "^2.0.0-beta.15"
+    "@tensorflow/tfjs": "^3.19.0",
+    "@tensorflow/tfjs-node": "^3.19.0",
+    "brain.js": "^2.0.0-beta.15",
+    "gpu.js": "^2.15.2",
+    "n": "^9.0.0",
+    "node-pre-gyp": "^0.17.0"
+  },
+  "volta": {
+    "node": "14.20.0"
   }
 }
